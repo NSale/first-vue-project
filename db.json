@@ -4,13 +4,7 @@
       "id": "1",
       "text": "Doctors Appointment",
       "day": "March 5th at 2:30pm",
-      "reminder": true
-    },
-    {
-      "id": "2",
-      "text": "Meeting with boss",
-      "day": "March 6th at 1:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": "3",
@@ -21,8 +15,14 @@
     {
       "text": "Thursday Quick Meeting",
       "day": "February 24th at 11:00am",
-      "reminder": true,
+      "reminder": false,
       "id": "bJudWvZ"
+    },
+    {
+      "text": "Standup",
+      "day": "February 21st at 2:30pm",
+      "reminder": true,
+      "id": "HR_KK6s"
     }
   ]
 }
